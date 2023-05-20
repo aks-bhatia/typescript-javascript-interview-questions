@@ -1,2 +1,2 @@
-# typescript-javascript-interview-questions
-Conceptual and coding interview questions related to typescript and javascript.
+# TypeScript & JavaScript interview Questions
+Conceptual and coding interview questions on typescript and javascript.
